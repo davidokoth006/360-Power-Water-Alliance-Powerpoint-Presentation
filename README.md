@@ -1,30 +1,24 @@
-# Stationery design brief
+⚡ Power & Water Alliance Interactive Presentation
+A modern, responsive, and interactive React-based presentation showcasing the strategic partnership between Power & Water Alliance and 360 Turbines. Built using Next.js, Tailwind CSS, and Lucide Icons, this application serves as a dynamic alternative to traditional slide decks.
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+✨ Features
+Slide-based navigation with smooth transitions
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/davidokoth006-2274s-projects/v0-stationery-design-brief)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/cC5Zxs5HgUA)
+Modular slide structure (Title, Timeline, Projects, Specs, etc.)
 
-## Overview
+Custom icon integration (e.g., Package)
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Visual metrics with progress bars
 
-## Deployment
+Responsive layout with elegant theming
 
-Your project is live at:
+Easily extendable with new slides or content types
 
-**[https://vercel.com/davidokoth006-2274s-projects/v0-stationery-design-brief](https://vercel.com/davidokoth006-2274s-projects/v0-stationery-design-brief)**
+🛠 Tech Stack
+React / Next.js
 
-## Build your app
+Tailwind CSS
 
-Continue building your app on:
+Lucide-react (icon library)
 
-**[https://v0.dev/chat/projects/cC5Zxs5HgUA](https://v0.dev/chat/projects/cC5Zxs5HgUA)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Custom UI Components - Card, Badge, Progress, Button
